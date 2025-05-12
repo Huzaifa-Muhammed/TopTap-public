@@ -50,26 +50,26 @@ Toptap is a high-performance **Flutter-based TikTok clone** that allows users to
 ## 📸 Screenshots  
 
 ### 🏠 Home Feed  
-<img src="screenshots/home_feed.jpg" width="300"/>
+<img src="screenshots/home_feed.jpg" height="400" width="200"/>
 
 ### 🎬 Upload Post  
-<img src="screenshots/upload_post.jpg" width="300"/>
+<img src="screenshots/upload_post.jpg" height="400" width="200"/>
 
 ### 📡 Live Stream  
-<img src="screenshots/live_stream.jpg" width="300"/>  
-<img src="screenshots/go_live.jpg" width="300"/>
+<img src="screenshots/live_stream.jpg" height="400" width="200"/>  
+<img src="screenshots/go_live.jpg" height="400" width="200"/>
 
 ### 😎 Face Filter in Action  
-<img src="screenshots/camera.jpg" width="300"/>
+<img src="screenshots/camera.jpg" height="400" width="200"/>
 
 ### 💬 Chat and Call  
-<img src="screenshots/inbox.jpg" width="300"/>
+<img src="screenshots/inbox.jpg" height="400" width="200"/>
 
 ### 💰 Balance Page  
-<img src="screenshots/balance.jpg" width="300"/>
+<img src="screenshots/balance.jpg" height="400" width="200"/>
 
 ### ⚙️ Settings Page  
-<img src="screenshots/settings.jpg" width="300"/> 
+<img src="screenshots/settings.jpg" height="400" width="200"/> 
 
 ---
 
